@@ -7,7 +7,7 @@ public class Enemy_Behaviour : MonoBehaviour
     // Start is called before the first frame update
 
     Rigidbody2D rb;
-    public float speed=600;
+    public float speed=800;
     Vector3 LastVelocity;
 
     void Start()
